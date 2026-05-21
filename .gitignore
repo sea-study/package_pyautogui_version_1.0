@@ -1,0 +1,18 @@
+# 构建产物
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller spec（可选保留，这里保留 mouse_automator.spec）
+
+# 运行时生成的用户数据
+.mouse_automator/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code local config
+.claude/
